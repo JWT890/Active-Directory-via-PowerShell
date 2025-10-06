@@ -30,6 +30,13 @@ After going through the license agreement, chose create custom and choose drive 
 Click next, then wait since it will take a while and don't click anything.  
 <img width="1028" height="776" alt="image" src="https://github.com/user-attachments/assets/ce7cf541-af80-4155-9951-a91f09fc7e70" />  
 
+After waiting, you will be greeted by a customize settings screen with asking for a password to be set. Create a simple password and hit finish  
+Then you be taken to the sign in screen. Look up the top of the VM, click input, then keyboard, and then click insert control, alt, delete and will be taken to the sign screen and type in the password set.  
+<img width="1024" height="772" alt="image" src="https://github.com/user-attachments/assets/34b87a32-70f9-49f3-a3c1-e12cd458fddc" />  
+
+
+
+
 
 
 
