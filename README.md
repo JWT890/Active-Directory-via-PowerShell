@@ -39,6 +39,13 @@ Next click on the folder, then This PC, and you will see the VirtualBox Guest Ad
 And then click on the amd64 application: 
 <img width="1024" height="772" alt="image" src="https://github.com/user-attachments/assets/fe09d0f2-30ac-4299-9149-28627f040d31" />  
 And click next and install on everything, then go and click on shutdown to close out the VM to install properly.  
+After signing back in, go to the network icon and click on unidentified network, scroll down and click on change adapter options and a screen will pop up next to it:  
+<img width="1295" height="445" alt="image" src="https://github.com/user-attachments/assets/4eedcec1-76fd-4b76-8c64-00c008a8b632" />  
+Check out both ethernet connections, the home network one will be the one with IP address of 10.0. and son on. The internal network one will be something like 255.255.0.0  
+Rename the both ethernets to Internet and Internal Network Respectively, then assign the IP address to the second one later.  
+Next go rename the PC, by going to the start menu, clicking on system, and scrolling down till you see rename this PC to DC and click restart now and wait.  
+
+
 
 
 
