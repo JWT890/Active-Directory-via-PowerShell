@@ -10,3 +10,18 @@ Windows Server 2019: https://www.microsoft.com/en-us/evalcenter/download-windows
 PowerShell script: https://github.com/joshmadakor1/AD_PS   
 
 When downloading the Windows 10 iso, it will first instead download a Media Creation tool for it. Go through the steps needed to get the Windows 10 iso and wait for it to be created, after which you will have the Windows 10 iso to work with. 
+
+First create the DC/Windows Server VM:  
+128 MB of Video Memory  
+Base Memory: 4048 MB  
+Adaptar 1: NAT  
+Adapter 2: Internal network  
+Processors: 2-4  
+ISO: Windows Server.iso  
+
+After startup:  
+<img width="1027" height="773" alt="image" src="https://github.com/user-attachments/assets/9f67797e-a38d-4d4e-93ce-c28e3e1690b7" />  
+
+
+
+
