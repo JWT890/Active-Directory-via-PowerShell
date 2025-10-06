@@ -21,6 +21,15 @@ ISO: Windows Server.iso
 
 After startup:  
 <img width="1027" height="773" alt="image" src="https://github.com/user-attachments/assets/9f67797e-a38d-4d4e-93ce-c28e3e1690b7" />  
+Click next and click install now:  
+<img width="1023" height="770" alt="image" src="https://github.com/user-attachments/assets/bae76fb5-9479-49bf-9e61-695cf17b801c" />  
+After clicking, choose the second option from the operating system list:  
+<img width="1025" height="772" alt="image" src="https://github.com/user-attachments/assets/f778a429-cd21-49fa-8be4-13614ab603e3" />  
+After going through the license agreement, chose create custom and choose drive zero for installation:  
+<img width="1026" height="771" alt="image" src="https://github.com/user-attachments/assets/b31b307b-c85a-486c-ba40-ad01bd4fe6a5" />  
+Click next, then wait since it will take a while and don't click anything.  
+<img width="1028" height="776" alt="image" src="https://github.com/user-attachments/assets/ce7cf541-af80-4155-9951-a91f09fc7e70" />  
+
 
 
 
