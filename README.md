@@ -34,6 +34,11 @@ After waiting, you will be greeted by a customize settings screen with asking fo
 Then you be taken to the sign in screen. Look up the top of the VM, click input, then keyboard, and then click insert control, alt, delete and will be taken to the sign screen and type in the password set.  
 <img width="1024" height="772" alt="image" src="https://github.com/user-attachments/assets/34b87a32-70f9-49f3-a3c1-e12cd458fddc" />  
 
+Next click on the folder, then This PC, and you will see the VirtualBox Guest Additions and click on it:  
+<img width="1020" height="771" alt="image" src="https://github.com/user-attachments/assets/40759515-a8bd-438a-b446-420ec86f08c1" />  
+And then click on the amd64 application: 
+<img width="1024" height="772" alt="image" src="https://github.com/user-attachments/assets/fe09d0f2-30ac-4299-9149-28627f040d31" />  
+And click next and install on everything, then go and click on shutdown to close out the VM to install properly.  
 
 
 
