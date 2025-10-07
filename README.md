@@ -83,6 +83,17 @@ Click next until router and add 172.16.0.1 and click next until done. Then go ba
 Next click on local server and be greeted by this menu:  
 <img width="1632" height="668" alt="image" src="https://github.com/user-attachments/assets/7a6f370d-785b-417c-84e1-b9616256390f" />  
 And click on IE Enhanced Security Configuration and turn it off and then head to Internet Explorer and download the script archive for this: https://github.com/joshmadakor1/AD_PS/archive/master.zip and save it from there.  
+After saving it, go to the start menu and go to WIndows PowerShell ISE, right click it and run as admin. Then navigate to the folder with the Create Users script and enter this prompt:  
+<img width="425" height="29" alt="image" src="https://github.com/user-attachments/assets/8645d24c-b34e-4e73-941a-161b6cc607b1" />  
+Then cd into the folder with the script and run it like this:  
+<img width="730" height="28" alt="image" src="https://github.com/user-attachments/assets/386fff5b-3e58-4a0c-855a-f5efbf395436" />  
+When it runs, names will show up in blue until it stops generating. After checking the users, it is time to create the Client Windows 10 VM.  
+
+Client 10 VM:
+
+
+
+
 
 
 
