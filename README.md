@@ -78,8 +78,14 @@ For DHCP, click on add roles and features and click on next till server roles an
 Then go to tools and click on DHCP and be greeted by this window:  
 <img width="584" height="405" alt="image" src="https://github.com/user-attachments/assets/343c9d34-6864-4995-9fdc-6185c06894d6" />  
 Click on the dropdown menu and you will see that IPv4 and IPv6 are both down. Click on IPv4 and click on new scope and name it 172.168.100-200 and click next and for address range:   
-<img width="634" height="450" alt="image" src="https://github.com/user-attachments/assets/0bf610af-4000-4b4a-9f5c-df717e40058d" />  
-Click next until router and add 172.16
+<img width="515" height="428" alt="image" src="https://github.com/user-attachments/assets/e71979f2-5586-4321-b5b8-6a2f774c9c33" />
+Click next until router and add 172.16.0.1 and click next until done. Then go back to the DHCP panel and refresh IPv4 and IPv6.  
+Next click on local server and be greeted by this menu:  
+<img width="1632" height="668" alt="image" src="https://github.com/user-attachments/assets/7a6f370d-785b-417c-84e1-b9616256390f" />  
+And click on IE Enhanced Security Configuration and turn it off and then head to Internet Explorer and download the script archive for this: https://github.com/joshmadakor1/AD_PS/archive/master.zip and save it from there.  
+
+
+
 
 
 
