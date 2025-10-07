@@ -78,7 +78,7 @@ For DHCP, click on add roles and features and click on next till server roles an
 Then go to tools and click on DHCP and be greeted by this window:  
 <img width="584" height="405" alt="image" src="https://github.com/user-attachments/assets/343c9d34-6864-4995-9fdc-6185c06894d6" />  
 Click on the dropdown menu and you will see that IPv4 and IPv6 are both down. Click on IPv4 and click on new scope and name it 172.168.100-200 and click next and for address range:   
-<img width="634" height="450" alt="image" src="https://github.com/user-attachments/assets/0bf610,af-4000-4b4a-9f5c-df717e40058d" />  
+<img width="634" height="450" alt="image" src="https://github.com/user-attachments/assets/0bf610af-4000-4b4a-9f5c-df717e40058d" />  
 Click next until router and add 172.16
 
 
