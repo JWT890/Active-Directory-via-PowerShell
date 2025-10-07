@@ -57,6 +57,19 @@ The VM will then restart and will be greeted with this screen:
 Sign in and go to the start menu, click on the Windows Administrative Tools dropdown and click on Active Directory Users and Computers and you will be greeted by this:  
 <img width="759" height="526" alt="image" src="https://github.com/user-attachments/assets/0f945e8d-5583-4557-9c04-437d587b9e34" />  
 Click on mydomain.com and go down to new, and then go down to Organizational Unit, click on it and name the new object _ADMINS and uncheck protect container
+Then click on _ADMIN and click on create new user and be greeted by this prompt:  
+<img width="785" height="536" alt="image" src="https://github.com/user-attachments/assets/856f37ba-f997-4324-826d-1d616972fe3d" />  
+Enter in your first and last name along with a login name such as first-initial and then last name. Click next and enter a password to keep up with. Uncheck must change password at next logon and check password never expires.  
+Click next and click finish.  
+You will then be greeted by this screen, click on the user account and go to properties to change it to admin account:  
+<img width="563" height="401" alt="image" src="https://github.com/user-attachments/assets/5d13c7f5-c164-4ad3-9254-89d2c0891946" />  
+After clicking on properties you be taken to this page:  
+<img width="420" height="546" alt="image" src="https://github.com/user-attachments/assets/fba6f618-dc60-4802-ab47-c6663875ce1a" />  
+Go to Member of tab and click on the add button. In the enter objects to select pane, type domain admins and then click ok.  
+To use the admin account, sign out and sign in to the new admin account.  
+You will see this screen with other user and then click on it:  
+<img width="1790" height="965" alt="image" src="https://github.com/user-attachments/assets/d8a28dee-fa30-4cca-bdeb-2a956c5f66cc" />  
+Now sign in
 
 
 
