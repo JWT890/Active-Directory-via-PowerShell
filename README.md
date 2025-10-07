@@ -44,6 +44,24 @@ After signing back in, go to the network icon and click on unidentified network,
 Check out both ethernet connections, the home network one will be the one with IP address of 10.0. and son on. The internal network one will be something like 255.255.0.0  
 Rename the both ethernets to Internet and Internal Network Respectively, then assign the IP address to the second one later.  
 Next go rename the PC, by going to the start menu, clicking on system, and scrolling down till you see rename this PC to DC and click restart now and wait.  
+Then go and assign the IP address for internal network like this:  
+<img width="443" height="557" alt="image" src="https://github.com/user-attachments/assets/8de62c5a-7134-460e-9c00-d8c111f9f7ae" />  
+
+Next go to the Server Manager and click on add roles and features, click on next till you get to server roles and check on Active Directory Domain Services and continue clicking on next and click on install.  
+Then wait on it too install which takes a few minutes.  
+After finishing, you will then want to clock the yellow sign on the flag:  
+<img width="352" height="318" alt="image" src="https://github.com/user-attachments/assets/6f65e9b4-8974-461a-ba1b-1fb3fae0b77a" />  
+Click on promote, then in deployment configuration, click on add a new forest and name it whatever you want, such as mydomain.com. Then click next, type password you set, and click next until you see click install which takes a while.  
+The VM will then restart and will be greeted with this screen:  
+<img width="923" height="622" alt="image" src="https://github.com/user-attachments/assets/a25465f3-a248-4b53-b3f0-6700b64194e5" />  
+Sign in and go to the start menu, click on the Windows Administrative Tools dropdown and click on Active Directory Users and Computers and you will be greeted by this:  
+<img width="759" height="526" alt="image" src="https://github.com/user-attachments/assets/0f945e8d-5583-4557-9c04-437d587b9e34" />  
+Click on mydomain.com and go down to new, and then go down to Organizational Unit, click on it and name the new object _ADMINS and uncheck protect container
+
+
+
+
+
 
 
 
