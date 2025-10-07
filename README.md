@@ -69,7 +69,22 @@ Go to Member of tab and click on the add button. In the enter objects to select 
 To use the admin account, sign out and sign in to the new admin account.  
 You will see this screen with other user and then click on it:  
 <img width="1790" height="965" alt="image" src="https://github.com/user-attachments/assets/d8a28dee-fa30-4cca-bdeb-2a956c5f66cc" />  
-Now sign in
+Now sign in and go to server manager and click on add roles and features. Click on next until server roles and click on remote access. On the role services screen click on routing and and click on add features. Click on next and then on install and then wait a while for it too install.  
+Then on server manager click on tools and go to routing and remote access:  
+<img width="621" height="436" alt="image" src="https://github.com/user-attachments/assets/8d9172db-aa87-42ee-bae0-74f64674d24d" />  
+Then click on DC (local) and then click on configure and enable. Click next and change configuration from remote to NAT. On NAT Internet Connection clock on internal, then next and finish. To see if it worked, click on the drop down menu for DC:  
+<img width="620" height="438" alt="image" src="https://github.com/user-attachments/assets/08f10286-4ab7-4b28-8ca4-98ad159a2ab6" />  
+For DHCP, click on add roles and features and click on next till server roles and click on DHCP Server. Click on next until clicking on install and then wait a few minutes.  
+Then go to tools and click on DHCP and be greeted by this window:  
+<img width="584" height="405" alt="image" src="https://github.com/user-attachments/assets/343c9d34-6864-4995-9fdc-6185c06894d6" />  
+Click on the dropdown menu and you will see that IPv4 and IPv6 are both down. Click on IPv4 and click on new scope and name it 172.168.100-200 and click next and for address range:   
+<img width="634" height="450" alt="image" src="https://github.com/user-attachments/assets/0bf610,.af-4000-4b4a-9f5c-df717e40058d" />  
+Click next until router and add 172.16
+
+
+
+
+
 
 
 
