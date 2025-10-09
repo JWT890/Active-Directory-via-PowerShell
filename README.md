@@ -1,5 +1,5 @@
 # Active-Directory-via-PowerShell
-*Project done back in 2022. Providing documentation*
+*Project done back in 2022. Documentation now provided in full*
 Project done from watching this video: https://youtu.be/MHsI8hJmggI?si=uCmsgk7di5o59Ggq
 
 Active Directory is a management system in which administrators can configure and administer user accounts and permissions for access to different groups and resources. Being able to configure the right permissions based off principle of least privilege and a few other factors help out with keeping things in check in terms of access and configurations in the organization. 
@@ -105,6 +105,20 @@ Click next and install and click on I don't have a product key, on the next scre
 After a while you will be greeted by the Select a region screen and choose the United States, US keyboard, say I don't have a network, continue with limited setup, say the user as user, don't do a password, and say no to the privacy settings.  
 After signing in type ipconfig and see if the client is configured to see the Ethernet connection, should have the default gateway part of it.  
 Then go click on the windows icon and click on system and scoll down till you see Rename this PC advanced, click on it, and then click on system properties and rename the computer to something simple like CLIENTS and the domain membership too mydomain.com.  
+After saving it, you will be prompted to enter the admin account to save it.  
+Next go to Active Directory Users and Computers and expand the mydomain.com and go to computers and you will see the Client VM in there:  
+<img width="640" height="481" alt="image" src="https://github.com/user-attachments/assets/b9988674-ab74-42de-9aa8-f9d277fc469b" />  
+When you go back to the Windows 10 Client VM after restarting, you will see that sign in as Other User is an option to sign in now. You can now chose one th users to sign in or an account that you created to sign in.  
+After signing in with the acarron account from the list of generated users:  
+<img width="1027" height="772" alt="image" src="https://github.com/user-attachments/assets/4e7b3348-0a69-4ca0-bc3e-6b67e6131f90" />  
+<img width="1031" height="772" alt="image" src="https://github.com/user-attachments/assets/68fd8c02-e8bb-4a1d-b4fc-4cd50d96b7d0" />  
+
+That is how to do Active Directory setup and creating the users in Active Directory to sign in from domain access  
+
+*Documentation now fully provided*
+
+
+
 
 
 
