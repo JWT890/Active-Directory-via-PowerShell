@@ -102,6 +102,9 @@ Make sure to click everything as ISO, creation of media for Windows 10 takes a w
 Next start up the Windows 10 Client VM, and will you be greeted by the Windows 10 setup screen:  
 <img width="1026" height="772" alt="image" src="https://github.com/user-attachments/assets/861f6ffe-2e4a-4735-a44b-b9df2fd24753" />  
 Click next and install and click on I don't have a product key, on the next screen scroll down till you get to Windows 10 Pro, click on it and hit next, accept the terms, select custom install, select drive 0 and then wait a while for it to install.  
+After a while you will be greeted by the Select a region screen and choose the United States, US keyboard, say I don't have a network, continue with limited setup, say the user as user, don't do a password, and say no to the privacy settings.  
+After signing in type ipconfig and see if the client is configured to see the Ethernet connection, should have the default gateway part of it.  
+Then go click on the windows icon and click on system and scoll down till you see Rename this PC advanced, click on it, and then click on system properties and rename the computer to something simple like CLIENTS and the domain membership too mydomain.com.  
 
 
 
