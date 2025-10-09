@@ -90,6 +90,22 @@ Then cd into the folder with the script and run it like this:
 When it runs, names will show up in blue until it stops generating. After checking the users, it is time to create the Client Windows 10 VM.  
 
 Client 10 VM:
+128 MB of Video Memory  
+Base Memory: 4048  
+Adapter 1: Internet network  
+Processors: 4  
+ISO: Windows 10 ISO  
+*Make sure to have used the creation installer beforehand so you can put it in quicker*  
+When creating click the second option:  
+<img width="702" height="547" alt="image" src="https://github.com/user-attachments/assets/73bd2dd9-ce92-4d98-bf6f-52de7cc15a1a" />  
+Make sure to click everything as ISO, creation of media for Windows 10 takes a while so you have to wait.  
+Next start up the Windows 10 Client VM, and will you be greeted by the Windows 10 setup screen:  
+<img width="1026" height="772" alt="image" src="https://github.com/user-attachments/assets/861f6ffe-2e4a-4735-a44b-b9df2fd24753" />  
+Click next and install and click on I don't have a product key, on the next screen scroll down till you get to Windows 10 Pro, click on it and hit next, accept the terms, select custom install, select drive 0 and then wait a while for it to install.  
+
+
+
+
 
 
 
